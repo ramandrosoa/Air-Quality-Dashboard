@@ -1,0 +1,10 @@
+pandas
+requests
+folium
+matplotlib
+seaborn
+jupyter
+plotly
+scipy
+fastapi
+uvicorn

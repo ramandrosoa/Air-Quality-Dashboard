@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 358779974,
+    "name": "Arroyo Seco Park",
+    "latitude": 34.104089,
+    "longitude": -118.1895507
+  },
+  {
+    "id": 358818378,
+    "name": "Busch Gardens",
+    "latitude": 34.1294524,
+    "longitude": -118.1647939
+  },
+  {
+    "id": 358826003,
+    "name": "Miles Park",
+    "latitude": 33.9797367,
+    "longitude": -118.21785
+  },
+  {
+    "id": 358851172,
+    "name": "Lincoln Park Recreation Center",
+    "latitude": 34.0658443,
+    "longitude": -118.199239
+  },
+  {
+    "id": 2632851990,
+    "name": "President's Garden",
+    "latitude": 34.1283367,
+    "longitude": -118.209664
+  },
+  {
+    "id": 6042989985,
+    "name": "Unnamed Park",
+    "latitude": 34.0314649,
+    "longitude": -118.2797488
+  },
+  {
+    "id": 6482328397,
+    "name": "Peace Awareness Labyrinth and Gardens",
+    "latitude": 34.0322624,
+    "longitude": -118.3226779
+  },
+  {
+    "id": 8427451824,
+    "name": "Jessica Triangle",
+    "latitude": 34.1121935,
+    "longitude": -118.2150357
+  },
+  {
+    "id": 4354434,
+    "name": "San Pascual Park",
+    "latitude": 34.1194327,
+    "longitude": -118.1687245
+  },
+  {
+    "id": 4584647,
+    "name": "Crystal Street Bike Park",
+    "latitude": 34.107461,
+    "longitude": -118.2557589
+  },
+  {
+    "id": 25808687,
+    "name": "El Parque De Mexico",
+    "latitude": 34.0656498,
+    "longitude": -118.2057236
+  },
+  {
+    "id": 25808864,
+    "name": "Lincoln Park",
+    "latitude": 34.0666542,
+    "longitude": -118.2015711
+  },
+  {
+    "id": 29186972,
+    "name": "Arroyo Park",
+    "latitude": 34.1205232,
+    "longitude": -118.1666938
+  },
+  {
+    "id": 30806773,
+    "name": "Ross Snyder Recreation Center",
+    "latitude": 34.0097119,
+    "longitude": -118.2476467
+  },
+  {
+    "id": 30806880,
+    "name": "Gilbert Lindsay Recreation Center",
+    "latitude": 34.0073633,
+    "longitude": -118.2681185
+  },
+  {
+    "id": 35423190,
+    "name": "Lemon Grove Recreation Center",
+    "latitude": 34.0872127,
+    "longitude": -118.3040708
+  },
+  {
+    "id": 39009491,
+    "name": "Unnamed Park",
+    "latitude": 34.0652588,
+    "longitude": -118.2171404
+  },
+  {
+    "id": 39009492,
+    "name": "Unnamed Park",
+    "latitude": 34.0651632,
+    "longitude": -118.2172772
+  },
+  {
+    "id": 39009498,
+    "name": "Unnamed Park",
+    "latitude": 34.0641248,
+    "longitude": -118.2179122
+  },
+  {
+    "id": 39563249,
+    "name": "Angels Knoll Park",
+    "latitude": 34.0510591,
+    "longitude": -118.2505888
+  },
+  {
+    "id": 40059839,
+    "name": "Rio de Los Angeles State Park",
+    "latitude": 34.0985113,
+    "longitude": -118.236059
+  },
+  {
+    "id": 40059840,
+    "name": "Bowtie/G1 Parcel",
+    "latitude": 34.1071359,
+    "longitude": -118.2437581
+  },
+  {
+    "id": 40187723,
+    "name": "Los Angeles State Historic Park",
+    "latitude": 34.0684949,
+    "longitude": -118.230776
+  },
+  {
+    "id": 43671395,
+    "name": "Cleland Avenue Bicentennial Park",
+    "latitude": 34.1134742,
+    "longitude": -118.2121509
+  },
+  {
+    "id": 45217744,
+    "name": "Elysian Valley Recreation Center",
+    "latitude": 34.0992702,
+    "longitude": -118.2447746
+  },
+  {
+    "id": 45769436,
+    "name": "Obregon Park",
+    "latitude": 34.0375474,
+    "longitude": -118.1771849
+  },
+  {
+    "id": 46257162,
+    "name": "City Terrace Park",
+    "latitude": 34.0493856,
+    "longitude": -118.1785149
+  },
+  {
+    "id": 56015484,
+    "name": "Loren Miller Park",
+    "latitude": 34.0303324,
+    "longitude": -118.3034497
+  },
+  {
+    "id": 58821945,
+    "name": "Hazard Park",
+    "latitude": 34.0590856,
+    "longitude": -118.2020642
+  },
+  {
+    "id": 60515918,
+    "name": "Marion Park",
+    "latitude": 34.0678042,
+    "longitude": -118.2518515
+  },
+  {
+    "id": 60516488,
+    "name": "Rose Hill Recreation Center",
+    "latitude": 34.0853633,
+    "longitude": -118.1904455
+  },
+  {
+    "id": 76559993,
+    "name": "Barnsdall Art Park",
+    "latitude": 34.1004125,
+    "longitude": -118.2942305
+  },
+  {
+    "id": 76659637,
+    "name": "Seoul International Park",
+    "latitude": 34.053708,
+    "longitude": -118.3011665
+  },
+  {
+    "id": 77392980,
+    "name": "Hollenbeck Park",
+    "latitude": 34.040231,
+    "longitude": -118.2176705
+  },
+  {
+    "id": 79876375,
+    "name": "Jesse A. Brewer Jr. Park",
+    "latitude": 34.0174988,
+    "longitude": -118.2907656
+  },
+  {
+    "id": 80063415,
+    "name": "W. M. Keck Foundation Amphitheatre",
+    "latitude": 34.0114455,
+    "longitude": -118.2892881
+  },
+  {
+    "id": 80579943,
+    "name": "Pershing Square",
+    "latitude": 34.0484079,
+    "longitude": -118.2530252
+  },
+  {
+    "id": 81350021,
+    "name": "South Park",
+    "latitude": 33.9975088,
+    "longitude": -118.2674411
+  },
+  {
+    "id": 116406204,
+    "name": "Silver Lake Meadows Park",
+    "latitude": 34.0984268,
+    "longitude": -118.2613621
+  },
+  {
+    "id": 117751118,
+    "name": "Boyle Heights Recreation Center",
+    "latitude": 34.0309119,
+    "longitude": -118.2152477
+  },
+  {
+    "id": 117751121,
+    "name": "Boyle Heights Sports Center Park",
+    "latitude": 34.0324179,
+    "longitude": -118.2143461
+  },
+  {
+    "id": 134116619,
+    "name": "Chesterfield Square Park",
+    "latitude": 33.9927674,
+    "longitude": -118.3132303
+  },
+  {
+    "id": 136689376,
+    "name": "Salt Lake Park",
+    "latitude": 33.9741462,
+    "longitude": -118.2060091
+  },
+  {
+    "id": 136689443,
+    "name": "Riverfront Park",
+    "latitude": 33.9850521,
+    "longitude": -118.1727676
+  },
+  {
+    "id": 136689508,
+    "name": "Roosevelt Park",
+    "latitude": 33.9701297,
+    "longitude": -118.2420099
+  },
+  {
+    "id": 136730406,
+    "name": "Harvard Playground",
+    "latitude": 33.9839287,
+    "longitude": -118.3045904
+  },
+  {
+    "id": 136732118,
+    "name": "Vermont Square",
+    "latitude": 34.0001375,
+    "longitude": -118.2958865
+  },
+  {
+    "id": 136750749,
+    "name": "Normandie Park",
+    "latitude": 34.0446265,
+    "longitude": -118.2996842
+  },
+  {
+    "id": 145652680,
+    "name": "Victory Memorial Grove",
+    "latitude": 34.0737735,
+    "longitude": -118.2493852
+  },
+  {
+    "id": 150106746,
+    "name": "James Slauson Recreation Center",
+    "latitude": 33.9943697,
+    "longitude": -118.2467021
+  },
+  {
+    "id": 150106747,
+    "name": "Augustus F. Hawkins Natural Park",
+    "latitude": 33.9903242,
+    "longitude": -118.2466591
+  },
+  {
+    "id": 154906676,
+    "name": "Alumni Park",
+    "latitude": 34.0205698,
+    "longitude": -118.2845219
+  },
+  {
+    "id": 154906721,
+    "name": "Hutton Park",
+    "latitude": 34.0216189,
+    "longitude": -118.2851643
+  },
+  {
+    "id": 154906727,
+    "name": "McCarthy Quad",
+    "latitude": 34.0209422,
+    "longitude": -118.2831456
+  },
+  {
+    "id": 154906796,
+    "name": "Unnamed Park",
+    "latitude": 34.0198809,
+    "longitude": -118.2828518
+  },
+  {
+    "id": 154906798,
+    "name": "Associates Park",
+    "latitude": 34.0211861,
+    "longitude": -118.2859447
+  },
+  {
+    "id": 159936384,
+    "name": "El Nuestro Parque",
+    "latitude": 33.9825132,
+    "longitude": -118.2437591
+  },
+  {
+    "id": 160982282,
+    "name": "Unnamed Park",
+    "latitude": 34.0635029,
+    "longitude": -118.2763479
+  },
+  {
+    "id": 160998254,
+    "name": "MacArthur Park",
+    "latitude": 34.0588396,
+    "longitude": -118.2776898
+  },
+  {
+    "id": 161508108,
+    "name": "Lafayette Recreation Center",
+    "latitude": 34.0620271,
+    "longitude": -118.284019
+  },
+  {
+    "id": 161705352,
+    "name": "Echo Park",
+    "latitude": 34.0730497,
+    "longitude": -118.2602463
+  },
+  {
+    "id": 161929504,
+    "name": "Gloria Molina Grand Park",
+    "latitude": 34.0554332,
+    "longitude": -118.245585
+  },
+  {
+    "id": 172304995,
+    "name": "Henry Alvarez Memorial Park",
+    "latitude": 34.0588673,
+    "longitude": -118.195206
+  },
+  {
+    "id": 172589832,
+    "name": "State Street Playground",
+    "latitude": 34.0528202,
+    "longitude": -118.2125669
+  },
+  {
+    "id": 172998391,
+    "name": "Ela Park",
+    "latitude": 34.0769057,
+    "longitude": -118.2075664
+  },
+  {
+    "id": 173008307,
+    "name": "Everett Park",
+    "latitude": 34.0699731,
+    "longitude": -118.2486954
+  },
+  {
+    "id": 173100635,
+    "name": "Prospect Park",
+    "latitude": 34.0535953,
+    "longitude": -118.2175708
+  },
+  {
+    "id": 173101108,
+    "name": "Los Angeles City Hall Park",
+    "latitude": 34.0529771,
+    "longitude": -118.2435541
+  },
+  {
+    "id": 173104263,
+    "name": "Laurel and Hardy Park",
+    "latitude": 34.0826659,
+    "longitude": -118.2748768
+  },
+  {
+    "id": 173105002,
+    "name": "Echo Park",
+    "latitude": 34.0686116,
+    "longitude": -118.2601199
+  },
+  {
+    "id": 173105003,
+    "name": "Rockwood Park",
+    "latitude": 34.06413,
+    "longitude": -118.2620668
+  },
+  {
+    "id": 173105004,
+    "name": "Echo Park Recreation Center",
+    "latitude": 34.0699459,
+    "longitude": -118.2604578
+  },
+  {
+    "id": 173105829,
+    "name": "Vista Hermosa Park",
+    "latitude": 34.0616986,
+    "longitude": -118.2568995
+  },
+  {
+    "id": 173545162,
+    "name": "Morin Memorial Square",
+    "latitude": 34.0406594,
+    "longitude": -118.19267
+  },
+  {
+    "id": 174196291,
+    "name": "Central Recreation Center",
+    "latitude": 34.0207817,
+    "longitude": -118.2510159
+  },
+  {
+    "id": 174249838,
+    "name": "Downey Park",
+    "latitude": 34.0714958,
+    "longitude": -118.2235314
+  },
+  {
+    "id": 174249840,
+    "name": "Albion Riverside Park",
+    "latitude": 34.0693745,
+    "longitude": -118.2232396
+  },
+  {
+    "id": 174251092,
+    "name": "Unnamed Park",
+    "latitude": 34.0490919,
+    "longitude": -118.2253163
+  },
+  {
+    "id": 174251096,
+    "name": "Pecan Playground",
+    "latitude": 34.0463163,
+    "longitude": -118.2223944
+  },
+  {
+    "id": 174264681,
+    "name": "Bimini Slough Ecology Park",
+    "latitude": 34.0703984,
+    "longitude": -118.2901418
+  },
+  {
+    "id": 174669219,
+    "name": "South Pasadena Woodland and Wildlife Park",
+    "latitude": 34.1126209,
+    "longitude": -118.1750846
+  },
+  {
+    "id": 174716506,
+    "name": "Julian C. Dixon Park",
+    "latitude": 33.9991831,
+    "longitude": -118.2867428
+  },
+  {
+    "id": 176076236,
+    "name": "Fred Roberts Recreation Center",
+    "latitude": 34.0006562,
+    "longitude": -118.2437541
+  },
+  {
+    "id": 179076161,
+    "name": "Maywood Park",
+    "latitude": 33.9882826,
+    "longitude": -118.1775603
+  },
+  {
+    "id": 188826243,
+    "name": "LA-USC Health Sciences Plaza",
+    "latitude": 34.0606419,
+    "longitude": -118.205063
+  },
+  {
+    "id": 189093068,
+    "name": "Ramona Gardens Park",
+    "latitude": 34.0563296,
+    "longitude": -118.1966231
+  },
+  {
+    "id": 201733907,
+    "name": "Bellevue Recreation Center",
+    "latitude": 34.0849287,
+    "longitude": -118.2818557
+  },
+  {
+    "id": 201874470,
+    "name": "Shatto Recreation Center",
+    "latitude": 34.0675844,
+    "longitude": -118.289552
+  },
+  {
+    "id": 202892957,
+    "name": "Salazar Park",
+    "latitude": 34.0229062,
+    "longitude": -118.1902803
+  },
+  {
+    "id": 202895457,
+    "name": "Ramon Garcia Recreation Center",
+    "latitude": 34.027085,
+    "longitude": -118.2061738
+  },
+  {
+    "id": 202907162,
+    "name": "Bristow Park",
+    "latitude": 34.013225,
+    "longitude": -118.1683496
+  },
+  {
+    "id": 202918569,
+    "name": "Wabash Recreation Center",
+    "latitude": 34.0510273,
+    "longitude": -118.1979025
+  },
+  {
+    "id": 203432665,
+    "name": "Ross Valencia Community Park",
+    "latitude": 34.0446779,
+    "longitude": -118.2119455
+  },
+  {
+    "id": 203436072,
+    "name": "Trinity Park",
+    "latitude": 34.0241977,
+    "longitude": -118.2630196
+  },
+  {
+    "id": 203436191,
+    "name": "Mary McLeod Bethune County Park",
+    "latitude": 33.9836114,
+    "longitude": -118.2530966
+  },
+  {
+    "id": 203436777,
+    "name": "South Los Angeles Wetlands Park",
+    "latitude": 33.992928,
+    "longitude": -118.2676986
+  },
+  {
+    "id": 203437133,
+    "name": "Avalon San Pedro Park",
+    "latitude": 34.0104421,
+    "longitude": -118.2656034
+  },
+  {
+    "id": 203438958,
+    "name": "San Julian Park",
+    "latitude": 34.0444004,
+    "longitude": -118.2453918
+  },
+  {
+    "id": 203438959,
+    "name": "Gladys Park",
+    "latitude": 34.0402749,
+    "longitude": -118.2425572
+  },
+  {
+    "id": 203440388,
+    "name": "Yaanga park",
+    "latitude": 34.0559888,
+    "longitude": -118.2380584
+  },
+  {
+    "id": 205589651,
+    "name": "Tommy Lasorda Field of Dreams",
+    "latitude": 34.0907994,
+    "longitude": -118.259596
+  },
+  {
+    "id": 205690234,
+    "name": "Garvanza Park",
+    "latitude": 34.1195092,
+    "longitude": -118.1804433
+  },
+  {
+    "id": 205692783,
+    "name": "Sycamore Grove Park",
+    "latitude": 34.0997546,
+    "longitude": -118.203296
+  },
+  {
+    "id": 205695104,
+    "name": "Montecito Heights Recreation Center",
+    "latitude": 34.097199,
+    "longitude": -118.2035418
+  },
+  {
+    "id": 205695450,
+    "name": "Greayer's Oak Park",
+    "latitude": 34.0906093,
+    "longitude": -118.2121829
+  },
+  {
+    "id": 205715168,
+    "name": "Steelhead Park",
+    "latitude": 34.0868156,
+    "longitude": -118.2289786
+  },
+  {
+    "id": 205715170,
+    "name": "Oso Park",
+    "latitude": 34.0854111,
+    "longitude": -118.2294127
+  },
+  {
+    "id": 205715215,
+    "name": "Egret Park",
+    "latitude": 34.0842365,
+    "longitude": -118.2284192
+  },
+  {
+    "id": 205715219,
+    "name": "Elysian Valley Gateway Park",
+    "latitude": 34.1029997,
+    "longitude": -118.2431634
+  },
+  {
+    "id": 205715332,
+    "name": "Lewis MacAdams Riverfront Park",
+    "latitude": 34.1068496,
+    "longitude": -118.2459963
+  },
+  {
+    "id": 205715333,
+    "name": "Rattlesnake Park",
+    "latitude": 34.1078849,
+    "longitude": -118.2538238
+  },
+  {
+    "id": 205715628,
+    "name": "Cypress Park Recreation Center",
+    "latitude": 34.0891503,
+    "longitude": -118.2255847
+  },
+  {
+    "id": 205716287,
+    "name": "River Garden Park",
+    "latitude": 34.0859456,
+    "longitude": -118.2252741
+  },
+  {
+    "id": 205716305,
+    "name": "Confluence Park",
+    "latitude": 34.0819746,
+    "longitude": -118.225617
+  },
+  {
+    "id": 206420459,
+    "name": "Biddy Mason Park",
+    "latitude": 34.0498788,
+    "longitude": -118.2484999
+  },
+  {
+    "id": 206464423,
+    "name": "Maguire Gardens",
+    "latitude": 34.050926,
+    "longitude": -118.2560539
+  },
+  {
+    "id": 206782855,
+    "name": "Unnamed Park",
+    "latitude": 34.0591927,
+    "longitude": -118.2957801
+  },
+  {
+    "id": 210823804,
+    "name": "Lucy Park",
+    "latitude": 34.0853169,
+    "longitude": -118.321838
+  },
+  {
+    "id": 218402562,
+    "name": "Highland Park Recreation Center",
+    "latitude": 34.1129575,
+    "longitude": -118.187952
+  },
+  {
+    "id": 220520191,
+    "name": "Unnamed Park",
+    "latitude": 34.0652788,
+    "longitude": -118.207187
+  },
+  {
+    "id": 221557193,
+    "name": "Unnamed Park",
+    "latitude": 34.0207335,
+    "longitude": -118.2827542
+  },
+  {
+    "id": 222837351,
+    "name": "North Atwater Park",
+    "latitude": 34.1323616,
+    "longitude": -118.2726966
+  },
+  {
+    "id": 233449135,
+    "name": "El Sereno Recreation Center",
+    "latitude": 34.076862,
+    "longitude": -118.1809008
+  },
+  {
+    "id": 240571081,
+    "name": "Carlin G. Smith Recreation Center",
+    "latitude": 34.1004152,
+    "longitude": -118.210832
+  },
+  {
+    "id": 240887684,
+    "name": "Silver Lake Recreation Center",
+    "latitude": 34.0926278,
+    "longitude": -118.2662915
+  },
+  {
+    "id": 241571182,
+    "name": "Guardia Park",
+    "latitude": 34.0973437,
+    "longitude": -118.1679247
+  },
+  {
+    "id": 242169960,
+    "name": "Chesley Park",
+    "latitude": 33.9797353,
+    "longitude": -118.2325482
+  },
+  {
+    "id": 244066785,
+    "name": "Unidad Park",
+    "latitude": 34.0637683,
+    "longitude": -118.2646906
+  },
+  {
+    "id": 244066799,
+    "name": "Robert Burns Park",
+    "latitude": 34.0756802,
+    "longitude": -118.3162012
+  },
+  {
+    "id": 244066836,
+    "name": "Seily Rodriguez Park",
+    "latitude": 34.0930712,
+    "longitude": -118.3140092
+  },
+  {
+    "id": 244066879,
+    "name": "Madison West Park",
+    "latitude": 34.0796068,
+    "longitude": -118.2886061
+  },
+  {
+    "id": 244106568,
+    "name": "Hope and Peace Park",
+    "latitude": 34.0527984,
+    "longitude": -118.2766722
+  },
+  {
+    "id": 244106573,
+    "name": "Richardson Family Park",
+    "latitude": 34.0302161,
+    "longitude": -118.2956314
+  },
+  {
+    "id": 244106601,
+    "name": "Estrella Park",
+    "latitude": 34.0336776,
+    "longitude": -118.2753365
+  },
+  {
+    "id": 244106604,
+    "name": "Hoover Recreation Center",
+    "latitude": 34.0323146,
+    "longitude": -118.2832784
+  },
+  {
+    "id": 244106621,
+    "name": "Terrace Park",
+    "latitude": 34.0449303,
+    "longitude": -118.2811417
+  },
+  {
+    "id": 244106627,
+    "name": "Toberman Recreation Center",
+    "latitude": 34.0396002,
+    "longitude": -118.2792583
+  },
+  {
+    "id": 244106635,
+    "name": "Pico Union Vest Pocket Park",
+    "latitude": 34.041072,
+    "longitude": -118.2844472
+  },
+  {
+    "id": 244106639,
+    "name": "Saint James Park",
+    "latitude": 34.0314617,
+    "longitude": -118.2797094
+  },
+  {
+    "id": 244106640,
+    "name": "Benny H. Potter West Adams Avenues Memorial Park",
+    "latitude": 34.0349199,
+    "longitude": -118.319051
+  },
+  {
+    "id": 244107303,
+    "name": "Leslie N Shaw Park",
+    "latitude": 34.0258078,
+    "longitude": -118.3197895
+  },
+  {
+    "id": 248194934,
+    "name": "Ernest Debs Park",
+    "latitude": 33.9785603,
+    "longitude": -118.1990132
+  },
+  {
+    "id": 248402460,
+    "name": "Unnamed Park",
+    "latitude": 33.9900899,
+    "longitude": -118.3182154
+  },
+  {
+    "id": 248759430,
+    "name": "Mount Carmel Recreation Center",
+    "latitude": 33.9759488,
+    "longitude": -118.2881977
+  },
+  {
+    "id": 248783228,
+    "name": "Vermont Square Park",
+    "latitude": 34.0003119,
+    "longitude": -118.297218
+  },
+  {
+    "id": 258034811,
+    "name": "Unnamed Park",
+    "latitude": 34.1284582,
+    "longitude": -118.2119282
+  },
+  {
+    "id": 258035097,
+    "name": "Sycamore Glen",
+    "latitude": 34.1267905,
+    "longitude": -118.2098472
+  },
+  {
+    "id": 259864118,
+    "name": "Alpine Park",
+    "latitude": 34.0638851,
+    "longitude": -118.2409286
+  },
+  {
+    "id": 296106918,
+    "name": "Vermont Triangle Pocket Park",
+    "latitude": 34.1015816,
+    "longitude": -118.2920798
+  },
+  {
+    "id": 312353397,
+    "name": "Pine Avenue Park",
+    "latitude": 33.9926281,
+    "longitude": -118.1873886
+  },
+  {
+    "id": 351804310,
+    "name": "Raul R. Perez Memorial Park",
+    "latitude": 33.9853466,
+    "longitude": -118.2352666
+  },
+  {
+    "id": 356677928,
+    "name": "Spring Street Park",
+    "latitude": 34.0478818,
+    "longitude": -118.2487501
+  },
+  {
+    "id": 359671237,
+    "name": "Palmer Park",
+    "latitude": 34.1319617,
+    "longitude": -118.2476324
+  },
+  {
+    "id": 359671241,
+    "name": "Juntos Family Park",
+    "latitude": 34.118682,
+    "longitude": -118.2460669
+  },
+  {
+    "id": 386575744,
+    "name": "Glassell Park Recreation Center",
+    "latitude": 34.1160676,
+    "longitude": -118.2322765
+  },
+  {
+    "id": 398072019,
+    "name": "Unnamed Park",
+    "latitude": 34.0568205,
+    "longitude": -118.257243
+  },
+  {
+    "id": 401891111,
+    "name": "Cerritos Park",
+    "latitude": 34.1237486,
+    "longitude": -118.25421
+  },
+  {
+    "id": 420299063,
+    "name": "Madison Avenue Park",
+    "latitude": 34.0929789,
+    "longitude": -118.2896157
+  },
+  {
+    "id": 420437752,
+    "name": "Veterans Memorial Park",
+    "latitude": 33.9759148,
+    "longitude": -118.1763049
+  },
+  {
+    "id": 420438627,
+    "name": "Camp Little Bear Park and Loadge",
+    "latitude": 33.9763755,
+    "longitude": -118.1990023
+  },
+  {
+    "id": 427290102,
+    "name": "Francis Avenue Community Garden",
+    "latitude": 34.0570613,
+    "longitude": -118.2894568
+  },
+  {
+    "id": 440804936,
+    "name": "Highland Park",
+    "latitude": 34.115185,
+    "longitude": -118.1842869
+  },
+  {
+    "id": 442411556,
+    "name": "Lincoln Heights Recreation Center",
+    "latitude": 34.0721893,
+    "longitude": -118.2151207
+  },
+  {
+    "id": 442694854,
+    "name": "Grand Hope Park",
+    "latitude": 34.0441979,
+    "longitude": -118.2606157
+  },
+  {
+    "id": 443668564,
+    "name": "Exposition Park",
+    "latitude": 34.0145109,
+    "longitude": -118.2871746
+  },
+  {
+    "id": 461761627,
+    "name": "Lummis Park",
+    "latitude": 34.0929978,
+    "longitude": -118.2071431
+  },
+  {
+    "id": 461761790,
+    "name": "Glenhurst Park",
+    "latitude": 34.1102402,
+    "longitude": -118.252775
+  },
+  {
+    "id": 465928643,
+    "name": "Marlow Park",
+    "latitude": 33.9722072,
+    "longitude": -118.166613
+  },
+  {
+    "id": 466938688,
+    "name": "Riverdale Minipark",
+    "latitude": 34.0927212,
+    "longitude": -118.2327774
+  },
+  {
+    "id": 468145369,
+    "name": "Carlton Way Park",
+    "latitude": 34.1007893,
+    "longitude": -118.3189674
+  },
+  {
+    "id": 469718737,
+    "name": "Central Avenue Jazz Park",
+    "latitude": 34.0068222,
+    "longitude": -118.2561315
+  },
+  {
+    "id": 469789460,
+    "name": "California Plaza Park",
+    "latitude": 34.0524212,
+    "longitude": -118.25104
+  },
+  {
+    "id": 474048788,
+    "name": "Freedom Park",
+    "latitude": 33.9850114,
+    "longitude": -118.1965398
+  },
+  {
+    "id": 475776001,
+    "name": "Huntington Park City Park",
+    "latitude": 33.9797287,
+    "longitude": -118.2181237
+  },
+  {
+    "id": 486258418,
+    "name": "Gramercy Park",
+    "latitude": 34.033948,
+    "longitude": -118.3124447
+  },
+  {
+    "id": 486287633,
+    "name": "Aliso Triangle",
+    "latitude": 34.0523465,
+    "longitude": -118.2227042
+  },
+  {
+    "id": 487268542,
+    "name": "Rolland Curtis Park",
+    "latitude": 34.0166859,
+    "longitude": -118.2999846
+  },
+  {
+    "id": 488506160,
+    "name": "Dodger's Dreamfield",
+    "latitude": 34.078135,
+    "longitude": -118.2162352
+  },
+  {
+    "id": 490372539,
+    "name": "Bandini Park",
+    "latitude": 34.0075621,
+    "longitude": -118.1711878
+  },
+  {
+    "id": 491696578,
+    "name": "Gilbert Lindsay Plaza",
+    "latitude": 34.0415094,
+    "longitude": -118.2678375
+  },
+  {
+    "id": 492370882,
+    "name": "Pixley Park",
+    "latitude": 33.9912452,
+    "longitude": -118.1994153
+  },
+  {
+    "id": 492372743,
+    "name": "Lewis MacAdams Riverfront Park",
+    "latitude": 34.1069838,
+    "longitude": -118.2472528
+  },
+  {
+    "id": 507794737,
+    "name": "Placita de Dolores",
+    "latitude": 34.0568609,
+    "longitude": -118.2377816
+  },
+  {
+    "id": 542997908,
+    "name": "Martin Luther King Junior Park",
+    "latitude": 34.0136763,
+    "longitude": -118.3080514
+  },
+  {
+    "id": 544657631,
+    "name": "Triangle Park",
+    "latitude": 34.0657744,
+    "longitude": -118.1711353
+  },
+  {
+    "id": 544657653,
+    "name": "Unnamed Park",
+    "latitude": 34.0683958,
+    "longitude": -118.1691603
+  },
+  {
+    "id": 555781210,
+    "name": "Bond Park",
+    "latitude": 34.1222656,
+    "longitude": -118.2694953
+  },
+  {
+    "id": 559566809,
+    "name": "Tierra de la Culebra Park",
+    "latitude": 34.1063749,
+    "longitude": -118.192642
+  },
+  {
+    "id": 574012080,
+    "name": "Morin Memorial Square",
+    "latitude": 34.0402173,
+    "longitude": -118.192755
+  },
+  {
+    "id": 583428804,
+    "name": "Unnamed Park",
+    "latitude": 34.0252929,
+    "longitude": -118.2864359
+  },
+  {
+    "id": 584205965,
+    "name": "Yosemite Recreation Center",
+    "latitude": 34.1320685,
+    "longitude": -118.2077011
+  },
+  {
+    "id": 727000078,
+    "name": "Great Lawn",
+    "latitude": 34.0267246,
+    "longitude": -118.2852759
+  },
+  {
+    "id": 736675131,
+    "name": "Unnamed Park",
+    "latitude": 34.0367399,
+    "longitude": -118.2264488
+  },
+  {
+    "id": 737757506,
+    "name": "Ed P. Reyes River Greenway",
+    "latitude": 34.0755568,
+    "longitude": -118.2243365
+  },
+  {
+    "id": 738070851,
+    "name": "Koreatown Pavilion Garden",
+    "latitude": 34.0531598,
+    "longitude": -118.3000253
+  },
+  {
+    "id": 740015178,
+    "name": "Production Park",
+    "latitude": 34.084876,
+    "longitude": -118.3180317
+  },
+  {
+    "id": 883911821,
+    "name": "The Magical Park",
+    "latitude": 34.0991498,
+    "longitude": -118.3006222
+  },
+  {
+    "id": 892026745,
+    "name": "Yale Street & Ord Street Park",
+    "latitude": 34.0608879,
+    "longitude": -118.2417591
+  },
+  {
+    "id": 894410872,
+    "name": "Tesla Pocket Park",
+    "latitude": 34.1040139,
+    "longitude": -118.264556
+  },
+  {
+    "id": 894414466,
+    "name": "Walnut Hill at Elysian Park",
+    "latitude": 34.0966559,
+    "longitude": -118.2468156
+  }
+]
