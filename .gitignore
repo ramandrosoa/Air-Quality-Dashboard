@@ -1,0 +1,39 @@
+# ── ENVIRONMENT ──
+venv/
+.venv/
+env/
+.env/
+
+# ── PYTHON ──
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# ── CREDENTIALS ──
+config.py
+.env
+*.key
+*.secret
+
+# ── DATA (optional — remove these lines if you want data in the repo) ──
+# data/
+
+# ── GENERATED FILES ──
+static/map.html
+
+# ── JUPYTER ──
+.ipynb_checkpoints/
+*.ipynb
+
+# ── OS FILES ──
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDE ──
+.vscode/
+.idea/
+*.swp
+*.swo
