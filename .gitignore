@@ -17,8 +17,6 @@ config.py
 *.key
 *.secret
 
-# ── DATA (optional — remove these lines if you want data in the repo) ──
-# data/
 
 # ── GENERATED FILES ──
 static/map.html
