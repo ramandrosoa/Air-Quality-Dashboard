@@ -24,9 +24,14 @@ Pollution metrics analyzed:
 - **Scatter plot** — distance to nearest park vs PM2.5 with trendline
 - **Near vs Far comparison** — average PM2.5 for stations near parks (<2km) vs far (>8km)
 - **Filterable station table** — filter by PM2.5 level (Good / Moderate / Unhealthy)
+  
+---
 
+ ## 📈 Key Findings
 
-
+- A positive correlation was found between distance to the nearest park and PM2.5 levels — stations farther from parks tend to record higher pollution.
+- Stations within 2km of a park show consistently lower average PM2.5 compared to stations more than 8km away.
+- When exploring the station table, stations surrounded by several parks within 2km tend to display lower PM2.5 levels compared to more isolated stations.
 
 ---
 
