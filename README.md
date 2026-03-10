@@ -62,6 +62,5 @@ Pollution metrics analyzed:
 
 ## 📝 Notes
 
-- `static/map.html` is not included in the repository as it is generated at runtime by `generate_map.py`. On deployment, this is handled automatically in the build step.
 - Stations with identical or near-identical coordinates are slightly offset on the map using a circular displacement algorithm to ensure all markers remain individually clickable.
 - Each station is labeled based on its PM2.5 reading: stations at or below 12 µg/m³ are classified as **Good**, between 12 and 35 µg/m³ as **Moderate**, and above 35 µg/m³ as **Unhealthy**. These labels are used consistently across the map markers, the filter layers, and the station table.
